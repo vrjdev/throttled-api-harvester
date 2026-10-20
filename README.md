@@ -50,3 +50,7 @@ terraform apply -var api_url=https://api.example.com/items -var api_key=... -var
 pip install -e '.[dev]'
 pytest
 ```
+
+## License
+
+Apache License 2.0. See [LICENSE](LICENSE).
